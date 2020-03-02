@@ -1,1 +1,2 @@
 zcl modify one.txt
+other modify one.txt
